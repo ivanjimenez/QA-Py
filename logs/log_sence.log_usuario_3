@@ -1,0 +1,56 @@
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:56003/wd/hub/session {"desiredCapabilities": {"platform": "ANY", "browserName": "phantomjs", "version": "", "javascriptEnabled": true}}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:56003/wd/hub/session/39bce110-2e18-11e4-b2d6-fda6f8d693a5/url {"url": "http://uchile.campustdc.com", "sessionId": "39bce110-2e18-11e4-b2d6-fda6f8d693a5"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:56003/wd/hub/session/39bce110-2e18-11e4-b2d6-fda6f8d693a5/element {"using": "name", "sessionId": "39bce110-2e18-11e4-b2d6-fda6f8d693a5", "value": "login_userid"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:56003/wd/hub/session/39bce110-2e18-11e4-b2d6-fda6f8d693a5/element/:wdc:1409164246310/value {"sessionId": "39bce110-2e18-11e4-b2d6-fda6f8d693a5", "id": ":wdc:1409164246310", "value": ["5", "5", "4", "5", "1", "9", "2", "3"]}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:56003/wd/hub/session/39bce110-2e18-11e4-b2d6-fda6f8d693a5/element {"using": "name", "sessionId": "39bce110-2e18-11e4-b2d6-fda6f8d693a5", "value": "login_pwd"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:56003/wd/hub/session/39bce110-2e18-11e4-b2d6-fda6f8d693a5/element/:wdc:1409164246311/value {"sessionId": "39bce110-2e18-11e4-b2d6-fda6f8d693a5", "id": ":wdc:1409164246311", "value": ["5", "5", "4", "5"]}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:56003/wd/hub/session/39bce110-2e18-11e4-b2d6-fda6f8d693a5/element {"using": "name", "sessionId": "39bce110-2e18-11e4-b2d6-fda6f8d693a5", "value": "log_button"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:56003/wd/hub/session/39bce110-2e18-11e4-b2d6-fda6f8d693a5/element/:wdc:1409164246312/click {"sessionId": "39bce110-2e18-11e4-b2d6-fda6f8d693a5", "id": ":wdc:1409164246312"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:56003/wd/hub/session/39bce110-2e18-11e4-b2d6-fda6f8d693a5/element {"using": "link text", "sessionId": "39bce110-2e18-11e4-b2d6-fda6f8d693a5", "value": "Construcci\u00f3n de Soluciones Evaluativas Apropiadas Sence"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:56003/wd/hub/session/39bce110-2e18-11e4-b2d6-fda6f8d693a5/element {"using": "xpath", "sessionId": "39bce110-2e18-11e4-b2d6-fda6f8d693a5", "value": "//div[@id='tab_content']/div/ul/li[4]/a"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53031/wd/hub/session {"desiredCapabilities": {"platform": "ANY", "browserName": "phantomjs", "version": "", "javascriptEnabled": true}}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53031/wd/hub/session/58404840-2e1b-11e4-9caf-b7eae9ead1d5/url {"url": "http://uchile.campustdc.com", "sessionId": "58404840-2e1b-11e4-9caf-b7eae9ead1d5"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53031/wd/hub/session/58404840-2e1b-11e4-9caf-b7eae9ead1d5/element {"using": "name", "sessionId": "58404840-2e1b-11e4-9caf-b7eae9ead1d5", "value": "login_userid"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53031/wd/hub/session/58404840-2e1b-11e4-9caf-b7eae9ead1d5/element/:wdc:1409165577629/value {"sessionId": "58404840-2e1b-11e4-9caf-b7eae9ead1d5", "id": ":wdc:1409165577629", "value": ["5", "5", "4", "5", "1", "9", "2", "3"]}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53031/wd/hub/session/58404840-2e1b-11e4-9caf-b7eae9ead1d5/element {"using": "name", "sessionId": "58404840-2e1b-11e4-9caf-b7eae9ead1d5", "value": "login_pwd"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53031/wd/hub/session/58404840-2e1b-11e4-9caf-b7eae9ead1d5/element/:wdc:1409165577630/value {"sessionId": "58404840-2e1b-11e4-9caf-b7eae9ead1d5", "id": ":wdc:1409165577630", "value": ["5", "5", "4", "5"]}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53031/wd/hub/session/58404840-2e1b-11e4-9caf-b7eae9ead1d5/element {"using": "name", "sessionId": "58404840-2e1b-11e4-9caf-b7eae9ead1d5", "value": "log_button"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53031/wd/hub/session/58404840-2e1b-11e4-9caf-b7eae9ead1d5/element/:wdc:1409165577631/click {"sessionId": "58404840-2e1b-11e4-9caf-b7eae9ead1d5", "id": ":wdc:1409165577631"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53031/wd/hub/session/58404840-2e1b-11e4-9caf-b7eae9ead1d5/element {"using": "link text", "sessionId": "58404840-2e1b-11e4-9caf-b7eae9ead1d5", "value": "Construcci\u00f3n de Soluciones Evaluativas Apropiadas Sence"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53031/wd/hub/session/58404840-2e1b-11e4-9caf-b7eae9ead1d5/element/:wdc:1409165585731/click {"sessionId": "58404840-2e1b-11e4-9caf-b7eae9ead1d5", "id": ":wdc:1409165585731"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53031/wd/hub/session/58404840-2e1b-11e4-9caf-b7eae9ead1d5/element {"using": "name", "sessionId": "58404840-2e1b-11e4-9caf-b7eae9ead1d5", "value": "password"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53031/wd/hub/session/58404840-2e1b-11e4-9caf-b7eae9ead1d5/element/:wdc:1409165592437/value {"sessionId": "58404840-2e1b-11e4-9caf-b7eae9ead1d5", "id": ":wdc:1409165592437", "value": ["C", "W", "8", "6", "7", "3", "3", "4"]}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53031/wd/hub/session/58404840-2e1b-11e4-9caf-b7eae9ead1d5/element {"using": "css selector", "sessionId": "58404840-2e1b-11e4-9caf-b7eae9ead1d5", "value": "div.ui-dialog-buttonpane > div.ui-dialog-buttonset > button:nth-child(3)"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53031/wd/hub/session/58404840-2e1b-11e4-9caf-b7eae9ead1d5/element/:wdc:1409165592438/click {"sessionId": "58404840-2e1b-11e4-9caf-b7eae9ead1d5", "id": ":wdc:1409165592438"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53031/wd/hub/session/58404840-2e1b-11e4-9caf-b7eae9ead1d5/refresh {"sessionId": "58404840-2e1b-11e4-9caf-b7eae9ead1d5"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53031/wd/hub/session/58404840-2e1b-11e4-9caf-b7eae9ead1d5/element {"using": "class name", "sessionId": "58404840-2e1b-11e4-9caf-b7eae9ead1d5", "value": "logout"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53031/wd/hub/session/58404840-2e1b-11e4-9caf-b7eae9ead1d5/element/:wdc:1409169199314/click {"sessionId": "58404840-2e1b-11e4-9caf-b7eae9ead1d5", "id": ":wdc:1409169199314"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://127.0.0.1:53031/wd/hub/session/58404840-2e1b-11e4-9caf-b7eae9ead1d5 {"sessionId": "58404840-2e1b-11e4-9caf-b7eae9ead1d5"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request

@@ -1,0 +1,31 @@
+#-+- coding:utf-8 -*-
+#!/usr/bin/env python
+import pdb
+import sys
+from sence_automat import *
+import logging
+import sys
+
+reload(sys)
+sys.setdefaultencoding('utf-8')
+
+#Loggin section is disabled by huge large files
+#Directory "logs" is mandatory in project root
+
+#LOG_FILENAME = 'logs/log_sence.log_usuario_'+str(sys.argv[1])
+#logging.basicConfig(filename=LOG_FILENAME, level=logging.DEBUG)
+
+print("Forma de uso: python num_usuario fichero_json\n")
+
+current = int(sys.argv[1]) # Usuario
+
+users_file = sys.argv[2]   # Fichero
+
+s = SenceCSV(users_file)  #Cargamos el CSV
+users = s.process_json() # Procesamos el CSV
+
+
+
+auth1 = Autentica(users,current)
+auth1.login()
+             

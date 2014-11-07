@@ -1,0 +1,8 @@
+[2014-08-27 17:32:24 ==> Procesando usuario: 55451923; Curso: 2 ==> Error: python carga_usuarios usuario curso: 3 2
+[2014-08-27 17:32:24 ==> Procesando usuario: 138918599; Curso: 2 ==> Error: python carga_usuarios usuario curso: 5 2
+[2014-08-27 17:32:24 ==> Procesando usuario: 126343302; Curso: 2 ==> Error: python carga_usuarios usuario curso: 1 2
+[2014-08-27 17:32:24 ==> Procesando usuario: 116261138; Curso: 2 ==> OK Login 116261138: Total Time (H:MM:SS): 0:00:30.025912]
+[2014-08-27 17:32:31 ==> Procesando usuario: 43323601; Curso: 2 ==> OK Login 43323601: Total Time (H:MM:SS): 0:00:30.016242]
+[2014-09-05 15:35:49 ==> Procesando usuario: 68753910; Curso: 2 ==> OK Login 68753910: Total Time (H:MM:SS): 0:00:30.030119]
+[2014-09-05 15:35:50 ==> Procesando usuario: 130365256; Curso: 2 ==> OK Login 130365256: Total Time (H:MM:SS): 0:00:30.020786]
+[2014-09-05 15:40:02 ==> Procesando usuario: 130365256; Curso: 2 ==> OK Login 130365256: Total Time (H:MM:SS): 0:00:30.030114]
